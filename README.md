@@ -7,6 +7,6 @@
     cd bioinf
     make
 
-Usage: ./main inputFilename kMerSize outputFilename [discardThreshold] [maximumMBUsage] [maxDepth]
-readsTest.fasta test (input) file included
+    #Usage: ./main inputFilename kMerSize outputFilename [discardThreshold] [maximumMBUsage] [maxDepth]
+    #readsTest.fasta test (input) file included
 
