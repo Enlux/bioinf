@@ -1,7 +1,7 @@
 ## Instructions
 
     # get a local copy of the source code
-    git clone --recursive https://github.com/
+    git clone --recursive https://github.com/Enlux/bioinf
     
     # compile the code on your computer
     cd bioinf
