@@ -10,3 +10,6 @@
     #Usage: ./main inputFilename kMerSize outputFilename [discardThreshold] [maximumMBUsage] [maxDepth]
     #readsTest.fasta test (input) file included
 
+
+[Bioinformatics class](https://www.fer.unizg.hr/predmet/bio)
+
