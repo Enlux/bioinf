@@ -1,4 +1,4 @@
-#include "cFP.h"
+#include "cFP.hpp"
 
 //checks if cFP set contains a k-mer
 bool cFP::contains(unsigned __int128 value2){

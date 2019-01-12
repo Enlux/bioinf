@@ -1,5 +1,5 @@
 #include <iostream>
-#include "kmer.h"
+#include "kmer.hpp"
 #include "bloom_filter.hpp"
 using namespace std;
 

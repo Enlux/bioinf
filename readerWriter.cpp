@@ -1,6 +1,6 @@
 #include <iostream>
-#include "readerWriter.h"
-#include "kmer.h"
+#include "readerWriter.hpp"
+#include "kmer.hpp"
 
 //writes one k-mer to file
 void ReaderWriter::writeKmer(unsigned __int128 i) {

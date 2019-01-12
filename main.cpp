@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
-#include "Util.h"
-#include "readerWriter.h"
+#include "Util.hpp"
+#include "readerWriter.hpp"
 #include <cstdlib>
 #include <chrono>
 typedef std::chrono::high_resolution_clock Clock;

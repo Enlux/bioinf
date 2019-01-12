@@ -10,8 +10,8 @@
 #include <jellyfish/mer_iterator.hpp>
 #include <vector>
 #include <set>
-#include "Util.h"
-#include "readerWriter.h"
+#include "Util.hpp"
+#include "readerWriter.hpp"
 #include "bloom_filter.hpp"
 
 using namespace std;

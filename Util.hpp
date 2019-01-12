@@ -1,5 +1,5 @@
 #include "bloom_filter.hpp"
-#include "kmer.h"
+#include "kmer.hpp"
 int countKmers(char** readFilename, const std::string& dumpFilename, int k, int discardThreshold);
 bloom_filter constructFilter(int numSavedKmers, double falsePositiveProbability);
 cFP constructCFP(const std::string& dumpFilename, bloom_filter& filter, int maximumMBUsage, int k, int numSavedKmers);

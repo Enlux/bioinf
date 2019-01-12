@@ -1,6 +1,6 @@
 #include <vector>
 #include "bloom_filter.hpp"
-#include "cFP.h"
+#include "cFP.hpp"
 #include "string"
 //#include "cFP.h"
 class Kmer {
