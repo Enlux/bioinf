@@ -1,3 +1,4 @@
+/* Author: Ante Šušak*/
 class ReaderWriter {
   FILE * f;
   public:

@@ -1,3 +1,4 @@
+/* Author: Ante Šušak*/
 #include <set>
 //#include <vector>
 //#include <algorithm>
