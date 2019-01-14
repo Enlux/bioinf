@@ -1,3 +1,4 @@
+#Author: Lucijan Peš
 #!/usr/bin/python3
 
 #this is all very simplified, kmers are in memory all the time

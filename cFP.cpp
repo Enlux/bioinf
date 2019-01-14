@@ -1,4 +1,4 @@
-/* Author: Ante Šušak*/
+/* Author: Ante Šušak */
 #include "cFP.hpp"
 
 //checks if cFP set contains a k-mer

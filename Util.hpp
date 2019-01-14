@@ -1,3 +1,4 @@
+/* Author: Lucijan Peš */
 #include "bloom_filter.hpp"
 #include "kmer.hpp"
 int countKmers(char** readFilename, const std::string& dumpFilename, int k, int discardThreshold);

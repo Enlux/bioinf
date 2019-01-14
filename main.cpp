@@ -1,3 +1,4 @@
+/* Author: Lucijan Peš */
 #include <iostream>
 #include <string>
 #include "Util.hpp"

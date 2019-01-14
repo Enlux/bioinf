@@ -1,4 +1,4 @@
-/* Author: Ante Šušak*/
+/* Author: Ante Šušak */
 #include <iostream>
 #include "kmer.hpp"
 #include "bloom_filter.hpp"

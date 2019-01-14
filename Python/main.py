@@ -1,3 +1,4 @@
+#Author: Lucijan Peš
 #!/usr/bin/python3
 from pybloomfilter import BloomFilter
 from GraphTraversal import GraphTraversal

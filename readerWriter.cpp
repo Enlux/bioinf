@@ -1,4 +1,4 @@
-/* Author: Ante Šušak*/
+/* Author: Ante Šušak */
 #include <iostream>
 #include "readerWriter.hpp"
 #include "kmer.hpp"

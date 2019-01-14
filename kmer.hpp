@@ -1,4 +1,4 @@
-/* Author: Ante Šušak*/
+/* Author: Ante Šušak */
 #include <vector>
 #include "bloom_filter.hpp"
 #include "cFP.hpp"
